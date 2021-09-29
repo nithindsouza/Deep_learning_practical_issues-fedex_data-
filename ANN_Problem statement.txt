@@ -1,0 +1,1 @@
+Q. Build an ANN model to predict Delivery Status for a logistic firm. (Refer fedex dataset)
